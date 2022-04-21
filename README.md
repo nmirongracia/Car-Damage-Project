@@ -3,6 +3,7 @@
 ### Laura Gutiérrez y Natalia Mirón
 ### Abril 2022
 
+## La idea
 Este proyecto es el trabajo de IMAGEN del Máster de Big Data y Analítica avanzada para la asignatura de Análisis de Datos no Estructurados.
 
 ¿Alguna vez te has planteado que una máquina determine si un coche necesita ser reparado o ha tenido un accidente?
@@ -14,7 +15,7 @@ Hay dos clasificadores:
 1. **Clasificador de Vehículos**: Responde a la pregunta de ¿es un coche o no? - Scripts que empiezan por "01"
 3. **Clasificador de Vehículos Dañados**: Responde a la pregunta de ¿el coche tiene daños o no? - Scripts que empiezan por "02"
 
-
+## Nuestra Propuesta
 Se separa en 5 scripts que deben de ejecutarse uno tras otro.
 
   1. **01_CarOrNot.ipynb**: Es un clasificador de vehículos. Al insertar una imagen, el clasificador predice si en la imagen se detecta que hay un vehículo o no. Si detecta que hay un vehículo se puede pasar a la segunda clasificación.
