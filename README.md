@@ -23,4 +23,13 @@ Se separa en 5 scripts que deben de ejecutarse uno tras otro.
   4. **02.2_DamagedOrNot_Logistic.ipynb**: Continúa con la ejecución del script **02.1_DamagedOrNot.ipynb**, y se ejecuta un modelo de regresión logística para medir la precisión de nuestro modelo.
   5. **02.1_DamagedOrNot_Prediction.ipynb**: Predice si hay daños en nuevas imágenes que se inserten cargando el modelo entrenado en los scripts anteriores. 
 
+
+A su vez, hay 5 carpetas donde guardamos resultados y modelos:
+•	**car_damage_check**: se guarda todo lo referente al modelo bueno que es el pre-entrenado
+•	**data**: en esta carpeta está el cat_counter (se utiliza en el script 01)
+•	**images**: en esta carpeta está el modelo vgg que se utiliza en el primer script y otra carpeta con las imágenes de los ejemplos que vamos poniendo
+•	**models**: aquí guardamos todos nuestros modelos con extensión .h5
+•	**training & validation**: estos son los conjuntos de datos que utilizamos para entrenar y validar (fotos de los coches normales y dañados)
+
+
 ¡Esperamos que os haya resultado interesante!
