@@ -27,10 +27,10 @@ Se separa en 5 scripts que deben de ejecutarse uno tras otro.
 
 A su vez, hay 5 carpetas donde guardamos resultados y modelos:
 *	**car_damage_check**: se guarda todo lo referente al modelo bueno que es el pre-entrenado
-•	**data**: en esta carpeta está el cat_counter (se utiliza en el script 01)
-•	**images**: en esta carpeta está el modelo vgg que se utiliza en el primer script y otra carpeta con las imágenes de los ejemplos que vamos poniendo
-•	**models**: aquí guardamos todos nuestros modelos con extensión .h5
-•	**training & validation**: estos son los conjuntos de datos que utilizamos para entrenar y validar (fotos de los coches normales y dañados)
+*	**data**: en esta carpeta está el cat_counter (se utiliza en el script 01)
+*	**images**: en esta carpeta está el modelo vgg que se utiliza en el primer script y otra carpeta con las imágenes de los ejemplos que vamos poniendo
+*	**models**: aquí guardamos todos nuestros modelos con extensión .h5
+*	**training & validation**: estos son los conjuntos de datos que utilizamos para entrenar y validar (fotos de los coches normales y dañados)
 
 
 ¡Esperamos que os haya resultado interesante!
