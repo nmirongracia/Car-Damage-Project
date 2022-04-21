@@ -7,7 +7,7 @@ Este proyecto es el trabajo de IMAGEN del Máster de Big Data y Analítica avanz
 
 ¿Alguna vez te has planteado que una máquina determine si un coche necesita ser reparado o ha tenido un accidente?
 
-El proyecto tiene como idea base ser una clasificador de coches con daños, pudiéndose utilizar para aseguradoras.
+El proyecto tiene como idea base ser un clasificador de coches con daños, pudiéndose utilizar para aseguradoras.
 Se usa una base de datos con 1840 imágenes de coches enteros y dañados en el entrenamiento.
 
 Hay dos clasificadores:
