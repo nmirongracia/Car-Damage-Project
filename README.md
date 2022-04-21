@@ -24,4 +24,7 @@ Se separa en 5 scripts que deben de ejecutarse uno tras otro.
   5. **02.1_DamagedOrNot_Prediction.ipynb**: Predice si hay daños en nuevas imágenes que se inserten cargando el modelo entrenado en los scripts anteriores. 
 
 
+¡Esperamos que os haya resultado interesante!
+
+
 
