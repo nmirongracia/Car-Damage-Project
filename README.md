@@ -23,8 +23,4 @@ Se separa en 5 scripts que deben de ejecutarse uno tras otro.
   4. **02.2_DamagedOrNot_Logistic.ipynb**: Continúa con la ejecución del script **02.1_DamagedOrNot.ipynb**, y se ejecuta un modelo de regresión logística para medir la precisión de nuestro modelo.
   5. **02.1_DamagedOrNot_Prediction.ipynb**: Predice si hay daños en nuevas imágenes que se inserten cargando el modelo entrenado en los scripts anteriores. 
 
-
 ¡Esperamos que os haya resultado interesante!
-
-
-
